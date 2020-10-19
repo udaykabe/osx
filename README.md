@@ -1,5 +1,8 @@
 # OS X Setup Script
 
+This is a fork of the original repository located at:
+https://github.com/danielsaidi/osx
+
 This repository contains scripts that can be used to setup a brand new
 MacBook within minutes. It applies OSX settings, installs applications
 and npm packages and can even configure your SSH keys.
