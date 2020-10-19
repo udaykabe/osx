@@ -41,7 +41,10 @@ tools that I use for hybrid app development. However, since these libs
 are global, I manage these installations from `scripts/npm.sh` instead
 of a `package.json` file.
 
-
 ## Author
+
+Uday Kabe
+
+## Original Author
 
 Daniel Saidi, daniel.saidi@gmail.com
