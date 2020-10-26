@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env sh
 
 # DESCRIPTION
 # Configure developer tools (e.g. Xcode code snippets)

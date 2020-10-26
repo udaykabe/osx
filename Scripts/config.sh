@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env sh
 
 # DESCRIPTION
 # Configure macOS (e.g. enabling developer mode).

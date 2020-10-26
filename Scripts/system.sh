@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env sh
 
 # DESCRIPTION
 # Install System Software (e.g. Homebrew, Cask etc.)
@@ -13,7 +13,7 @@ fi
 echo ""
 
 echo "[SYSTEM] Install Homebrew Cask"
-brew tap caskroom/cask-cask
+brew tap homebrew/cask-cask-cask
 echo ""
 
 echo "[SYSTEM] Install Brew Bundle"

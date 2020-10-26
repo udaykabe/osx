@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env sh
 
 # DESCRIPTION
 # Creates a new ssh key and copies it to the pasteboard

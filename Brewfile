@@ -10,13 +10,25 @@ brew "swiftlint"
 
 # Apps
 cask "dropbox"
-#cask "google-chrome"
-cask "docker-desktop"
-case "firefox"
-cask "postman"
+cask "firefox"
 cask "sketch"
 cask "sourcetree"
 cask "spectacle"
-cask "spotify"
-cask "vagrant"
+
+# Development Apps
+brew "awscli"
+brew "azure-cli"
+cask "eclipse-installer"
+brew "node"
+cask "postman"
 cask "visual-studio-code"
+
+# Entertainmaint Apps
+cask "spotify"
+cask "tidal"
+cask "vlc"
+
+# Virtualization Apps
+cask "docker"
+cask "vagrant"
+cask "virtualbox"
