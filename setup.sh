@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env sh
 
 # DESCRIPTION
 # Executes the command line interface.
@@ -52,7 +52,7 @@ process_option() {
 
 # MENU
 while true; do
-  if [[ $# == 0 ]]; then
+  if [ $# -eq 0 ]; then
     echo ""
     echo "******************"
     echo "    Setup OS X    "
