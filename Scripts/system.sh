@@ -5,7 +5,7 @@
 
 if ! command -v brew > /dev/null; then
     echo "[SYSTEM] Install Homebrew and Cask in one shot"
-    ruby -e "$(curl --location --fail --silent --show-error https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    /bin/bash -c "$(curl --location --fail --silent --show-error https://raw.githubusercontent.com/Homebrew/install/master/install)"
 else
     echo "[SYSTEM] Update Homebrew"
     brew update
