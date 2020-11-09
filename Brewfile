@@ -23,7 +23,6 @@ brew "azure-cli"
 # Development Tools
 ###########################
 brew "node"
-brew "azure-cli"
 
 ###########################
 # App Store Apps
